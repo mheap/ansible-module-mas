@@ -1,3 +1,7 @@
+**This is now a part of Ansible - https://docs.ansible.com/ansible/latest/collections/community/general/mas_module.html**
+
+---
+
 Welcome to the beginning of an Ansible module for installing applications via the Mac app store.
 
 To use this module, you'll need `mas` installed (see https://github.com/argon/mas). You can use `homebrew`
